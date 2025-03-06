@@ -6,7 +6,7 @@ import Weather from './components/Weather';
 function App() {
 
   const myStyle = {
-    backgroundImage:"url('https://himalayashelter.com/wp-content/uploads/2024/07/North-Face-Mount-Everest-Tibet-Autonomous-Region.webp')",
+    backgroundImage:"url('https://media.istockphoto.com/id/1223738331/photo/panoramic-59-mpix-xxxxl-size-view-of-mount-ama-dablam-in-himalayas-nepal.jpg?s=612x612&w=0&k=20&c=tbyjhHnTUNXyQsqB7UzVsjGwWiSNtwJeFB1Ven3LGjs=')",
     height:"100vh",
     backgroundSize:"cover",
     backgroundRepeat:"no-repeat"
