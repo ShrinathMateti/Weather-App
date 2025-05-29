@@ -6,7 +6,7 @@ import Weather from './components/Weather';
 function App() {
 
   const myStyle = {
-    backgroundImage:"url('https://media.istockphoto.com/id/1223738331/photo/panoramic-59-mpix-xxxxl-size-view-of-mount-ama-dablam-in-himalayas-nepal.jpg?s=612x612&w=0&k=20&c=tbyjhHnTUNXyQsqB7UzVsjGwWiSNtwJeFB1Ven3LGjs=')",
+    backgroundImage:"url('https://miro.medium.com/v2/resize:fit:5120/1*GsImz-edoeuqCMfKxDus0w.jpeg')",
     height:"100vh",
     backgroundSize:"cover",
     backgroundRepeat:"no-repeat"
