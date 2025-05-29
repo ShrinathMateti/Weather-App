@@ -34,7 +34,7 @@ const Weather = () => {
   }
 
   return (
-    <div className="container py-3 text-center text-light fw-semibold">
+    <div className="container py-3 text-center text-dark fw-semibold">
       <h3 className="mb-4"><i class="bi bi-cloud-sun-fill"></i> Weather App</h3>
       <form onSubmit={handleSubmit}>
         <input type="text" className="form-control w-50 mx-auto d-block mb-3" placeholder="Enter City Name" value={city} onChange={handleInputChange}/>
